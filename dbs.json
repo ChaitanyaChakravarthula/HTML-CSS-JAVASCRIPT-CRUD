@@ -1,0 +1,130 @@
+{
+  "employees": [
+    {
+      "name": "GOVIND D",
+      "email": "govind@23456gmail.com",
+      "salary": "987645",
+      "department": "softwatre",
+      "phoneNumber": "9856423255",
+      "address": "kochi",
+      "id": "e560"
+    },
+    {
+      "name": "LAVIDI HARI RAJU",
+      "email": "hari@9924gmail.com",
+      "salary": "10000000",
+      "department": "ADMIN",
+      "phoneNumber": "9568456238",
+      "address": "kochi",
+      "id": "3549"
+    },
+    {
+      "name": "NARENDRA SAKUNALA",
+      "email": "darlingnarendra107@gmail.com",
+      "salary": "879645132",
+      "department": "DEVELOPMENT",
+      "phoneNumber": "9568456238",
+      "address": "ANANTHARAJAMPET",
+      "id": "6c07"
+    },
+    {
+      "name": "CHAITANYA CHAKRAVARTHULA",
+      "email": "chaitanyachakravarthula206@gmail.com",
+      "salary": "9978465132",
+      "department": "WEB DEVELOPMENT",
+      "phoneNumber": "9856423255",
+      "address": "11/A,SUDHAKARA BUILDING,MUNNEKOLALA,MARATHALLI",
+      "id": "58ca"
+    },
+    {
+      "name": "RANGA RAJU CHAKRAVARTHULA KUMAR VARMA RAJU CHAKRAVARTHULA",
+      "email": "rangaraju2343@gmail.com",
+      "salary": "1000000",
+      "department": "CEO",
+      "phoneNumber": "8956668978",
+      "address": "KUWAIT",
+      "id": "02ba"
+    },
+    {
+      "id": "dd0c",
+      "name": "SIRISHA CHAKRAVARTHULA",
+      "email": "SIRI234534@GMAIL.COM",
+      "salary": "98465132",
+      "department": "SUPPORT",
+      "phoneNumber": "9856423255",
+      "address": "BENGALURU"
+    },
+    {
+      "name": "",
+      "email": "",
+      "salary": "6845312",
+      "department": "",
+      "phoneNumber": "",
+      "address": "",
+      "id": "85bf"
+    },
+    {
+      "id": "74c1",
+      "name": "",
+      "email": "",
+      "salary": "",
+      "department": "",
+      "phoneNumber": "",
+      "address": ""
+    },
+    {
+      "id": "edc2",
+      "name": "LAVIDI HARI RAJU",
+      "email": "hari@9924gmail.com",
+      "salary": "4852",
+      "department": "WEB DEVELOPMENT",
+      "phoneNumber": "9568456238",
+      "address": "kochi"
+    },
+    {
+      "id": "035f",
+      "name": "VAMSI KRISHNA V",
+      "email": "vamsi32@gmail.com",
+      "salary": "89465132",
+      "department": "WEB DEVELOPMENT",
+      "phoneNumber": "9568456238",
+      "address": "KOCHI"
+    },
+    {
+      "id": "3053",
+      "name": "dhkdsfkopgdsjihdgjdbioshugfhavbajhfghhjihugygchigufdfgyiulyudtkyoifikdyioufdgiohygfdfgogfydtgyfydfgogufyfgo",
+      "email": "hari@9924gmail.com",
+      "salary": "87946512",
+      "department": "softwatre",
+      "phoneNumber": "/9784651320dtryfugihoj",
+      "address": "fxgchvjgbkl"
+    },
+    {
+      "id": "9ff5",
+      "name": "kjhcgfxg;iouglfykdthfjugfj,ydhxfmcghgilufydjmthxfmhcghihgufydthfxggvhjhlgukfyjghfxcghhigujg",
+      "email": "hari@9924gmail.com",
+      "salary": "789465312",
+      "department": "joikholhigkjhcg",
+      "phoneNumber": "78\\542",
+      "address": "olihkjghgcvc"
+    },
+    {
+      "name": "SHIVA PRASAD K",
+      "email": "shiva2134@gmmail.com",
+      "salary": "8946589465",
+      "department": "UX DESIGNER",
+      "phoneNumber": "9568456238",
+      "address": "BENGALURU",
+      "id": "7bde"
+    },
+    {
+      "id": "b956",
+      "name": "chaitnya",
+      "email": "chaitanyacha@gmail.com",
+      "salary": "4157421",
+      "department": "admin",
+      "phoneNumber": "987645312",
+      "address": "asljkvd"
+    }
+  ]
+}
